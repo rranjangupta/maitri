@@ -8,5 +8,4 @@ If you have Extracted the file already please copy the Parent Folder in C drive.
 
 
 Any Suggesion and Query can be taken care at:
-siba.das@wipro.com
-raju.gupta2@wipro.com
+rranjangupta@protonmail.com
