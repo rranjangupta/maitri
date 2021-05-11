@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Live Project](https://rranjangupta.github.io/maitri)
+
 [https://rranjangupta.github.io/maitri/] and ![Image](src)
 ```
 
@@ -31,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rranjangupta/maitri/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+[Live Project](https://rranjangupta.github.io/maitri)
 
 ### Support or Contact
 
