@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+[Live Project](https://rranjangupta.github.io/maitri)
 [https://rranjangupta.github.io/maitri/] and ![Image](src)
 ```
 
